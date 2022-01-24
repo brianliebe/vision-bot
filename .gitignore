@@ -132,4 +132,4 @@ dmypy.json
 *.jpeg
 *.png
 
-wordle/database.json
+/*.json
